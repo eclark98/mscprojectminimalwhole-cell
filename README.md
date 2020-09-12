@@ -1,7 +1,7 @@
 # mscprojectminimalwhole-cell
 Code from my MSc project, "A Minimal Physiochemical Whole-Cell Model for Engineering Biology; Extending an Existing Bacterial Cell Model". 
 
-Please find below a small description of what each MATLAB script does.
+Please find below a small description of what each MATLAB script does, and each of these can be found in the folder "Final Code".
 Code adapted from Weisse et al., "A mechanistic link between cellular trade-offs, gene expression and growth", PNAS, 2015, and previous masters student's work “The impact of cellular trade-offs on synthetic genetic circuits across cellpopulations", MSc Research Report, 2017.
 
 ## Basic Model
